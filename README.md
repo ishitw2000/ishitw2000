@@ -17,7 +17,15 @@
 
 ####
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitwaAgrawal&show_icons=true&hide=stars&theme=radical&count_private=true)\
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitwaAgrawal&&show_icons=true&count_private=true&theme=github_dark)\
+ -->
+
+## 📈 Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=IshitwaAgrawal&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshitwaAgrawal&theme=github_dark"/>
+
+## Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitwaAgrawal&layout=compact&theme=radical)
 
 <br/>
