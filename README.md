@@ -22,9 +22,10 @@
 
 ## 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshitwaAgrawal&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshitwaAgrawal&theme=github_dark"/>
+| <img src="https://github-readme-stats.vercel.app/api?username=Smit-05&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smit-05&theme=blueberry_duo"/> |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
-## Top Languages
+## 🦾 Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitwaAgrawal&layout=compact&theme=radical)
 
