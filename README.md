@@ -34,7 +34,7 @@
 <h2>👯 Visitor's count :eyes:</h2>
 <br/>
 
-<p><img src="https://profile-counter.glitch.me/{ishitwa2000}/count.svg" alt="Ishitwa's :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{IshitwaAgrawal}/count.svg" alt="Ishitwa's :: Visitor's Count" /></p>
 <br/>
 <br/>
 
