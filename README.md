@@ -22,13 +22,13 @@
 
 ## 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishitwa2000&&show_icons=true&count_private=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=ishitw2000&&show_icons=true&count_private=true&theme=github_dark">
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ishitwa2000&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2107&fire=DDA03C&currStreakLabel=CFDD36&sideNums=36DD3F"/>  -->
 
 ## 🦾 Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitwa2000&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitw2000&layout=compact&theme=radical)
 
 <br/>
 <h2>👯 Visitor's count :eyes:</h2>
